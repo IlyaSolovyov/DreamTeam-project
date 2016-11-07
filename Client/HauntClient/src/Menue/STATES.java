@@ -1,0 +1,7 @@
+package Menue;
+
+public enum STATES {
+	MENUE, PLAY, 
+	START, SETTINGS, ABOUT, EXIT, 
+	BACK, FIRST, SECOND, THIRD, FOURTH
+};
