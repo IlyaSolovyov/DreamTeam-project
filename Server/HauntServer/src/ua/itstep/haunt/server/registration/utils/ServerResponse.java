@@ -1,5 +1,0 @@
-package ua.itstep.haunt.server.registration.utils;
-
-public enum ServerResponse {
-	TOKEN_CREATED, SALT_RETURNED, USER_REGISTERED, USERNAME_UNAVAILABLE, EMAIL_UNAVAILABLE, USERNAME_UNKNOWN, PASSWORD_MISMATCH
-}
