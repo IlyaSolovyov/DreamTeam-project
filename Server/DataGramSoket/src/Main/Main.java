@@ -1,8 +1,10 @@
-package project;
+package Main;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         System.out.println("HI");
+        System.out.println("aaaa");
     }
 }
